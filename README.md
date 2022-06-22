@@ -12,4 +12,4 @@ Steps covered :
       1. Encryption
       2. Decryption
 
-Also, delete all the resources after use as it would be charged otherwise!
+Also, delete all the resources after use as it would be charged!
